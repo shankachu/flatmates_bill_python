@@ -1,2 +1,2 @@
-# geometry_game_python
-A simple game coded in python to let user check his/her guess point is in a rectangle area
+# flatmates_bill_python
+A simple app to let flatmates to split their bill for their expenses
